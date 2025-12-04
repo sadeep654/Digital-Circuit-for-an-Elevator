@@ -36,14 +36,15 @@ This repository contains a full working implementation using a **breadboard prot
 
 ## 🔹 Circuit Overview
 
-Below is the breadboard implementation used for the project:
-
-<img src="img/img1.png" width="100%" alt="Digital Circuit for an Elevator" />
-
 >### Circuit Architecture
 <p align="center">
   <img src="img/diagram.png" width="100%" alt="Digital Circuit for an Elevator" />
 </p>
+
+Below is the breadboard implementation used for the project: <a href="https://www.tinkercad.com/things/hYpgCl7IjPe-7-segment-display/editel" target="_blank">Go to tinkercad</a>
+
+<img src="img/img1.png" width="100%" alt="Digital Circuit for an Elevator" />
+
 
 ---
 
@@ -107,8 +108,6 @@ Using **AND gates (74HC08)** and **inverters (74HC04)**:
   - **Red LED = ON**  
   - **Buzzer = ON**  
   - Green LED = OFF  
-
-This satisfies the assignment requirement fully  [oai_citation:4‡Assignment_IE2010_2020.pdf](sediment://file_0000000071907206b0f2bfcc58f1346e).
 
 ---
 
