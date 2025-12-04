@@ -41,7 +41,7 @@ Below is the breadboard implementation used for the project:
 
 >### Architecture Summary
 <p align="center">
-  <img src="img/diagram11.png" width="100%" alt="EMS" />
+  <img src="img/diagram.png" width="100%" alt="Digital Circuit for an Elevator" />
 </p>
 
 ---
