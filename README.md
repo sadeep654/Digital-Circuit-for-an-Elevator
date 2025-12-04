@@ -40,7 +40,7 @@ Below is the breadboard implementation used for the project:
 
 <img width="1440" alt="Screenshot 2022-01-07 at 09 15 57" src="https://user-images.githubusercontent.com/76505825/148488183-fd818d34-78d8-49bc-ba49-3fad6f9bda4a.png">
 
->### Architecture Summary
+>### Circuit Architecture
 <p align="center">
   <img src="img/diagram.png" width="100%" alt="Digital Circuit for an Elevator" />
 </p>
