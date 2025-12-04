@@ -41,7 +41,7 @@ This repository contains a full working implementation using a **breadboard prot
   <img src="img/diagram.png" width="100%" alt="Digital Circuit for an Elevator" />
 </p>
 
-Below is the breadboard implementation used for the project: <a href="https://www.tinkercad.com/things/hYpgCl7IjPe-7-segment-display/editel" target="_blank">Go to tinkercad</a>
+Below is the breadboard implementation used for the project: <a href="https://www.tinkercad.com/things/hYpgCl7IjPe-7-segment-display/editel" target="_blank">Go see the project on Tinkercad</a>
 
 <img src="img/img1.png" width="100%" alt="Digital Circuit for an Elevator" />
 
@@ -133,11 +133,24 @@ Using **AND gates (74HC08)** and **inverters (74HC04)**:
 
 ---
 
-## 📁 Files in This Repository
+## 🔹 License
 
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for details.
 
+---
 
+## 🔹 Citation
 
+If you use or reference this work in academic or technical documents, please cite:
+```bash
+Kasthuriarachchi, S.D. (2020) Digital Circuit for an Elevator.[Online] Available at: https://github.com/sadeep654/Employee-Management-System (Accessed: date-you-accessed).
+```
+---
+
+## 👤 Author
+
+**Sadeep Dilshan Kasthuriarachchi**  
 
 
 
