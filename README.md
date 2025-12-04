@@ -144,13 +144,15 @@ See the `LICENSE` file for details.
 
 If you use or reference this work in academic or technical documents, please cite:
 ```bash
-Kasthuriarachchi, S.D. (2020) Digital Circuit for an Elevator.[Online] Available at: https://github.com/sadeep654/Employee-Management-System (Accessed: date-you-accessed).
+Kasthuriarachchi, S.D. (2020) Digital Circuit for an Elevator.[Online] Available at: https://github.com/sadeep654/Digital-Circuit-for-an-Elevator (Accessed: date-you-accessed).
 ```
 ---
 
 ## 👤 Author
 
-**Sadeep Dilshan Kasthuriarachchi**  
+```bash
+Copyright (c) 2020 Sadeep Dilshan Kasthuriarachchi
+```
 
 
 
