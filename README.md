@@ -8,6 +8,7 @@
 ## 🔹 Overview
 
 This repository contains the implementation of a **digital elevator people-counting circuit** built using standard digital ICs, IR sensors, logic gates, a 7-segment display, and LED indicators. The circuit counts people entering an elevator (0–9), displays the count, and triggers safety indicators when the capacity limit is reached.
+>See the demo video below for a quick visual explanation of how the system works.
 <p align="center">
   <img src="img/demo.gif" alt="Employee Management System Demo" width="1000px">
 </p>
