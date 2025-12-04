@@ -38,11 +38,11 @@ This repository contains a full working implementation using a **breadboard prot
 
 Below is the breadboard implementation used for the project:
 
-<img src="img/img.png" width="100%" alt="Digital Circuit for an Elevator" />
+<img src="img/img1.png" width="100%" alt="Digital Circuit for an Elevator" />
 
 >### Circuit Architecture
 <p align="center">
-  <img src="img1/diagram.png" width="100%" alt="Digital Circuit for an Elevator" />
+  <img src="img/diagram.png" width="100%" alt="Digital Circuit for an Elevator" />
 </p>
 
 ---
