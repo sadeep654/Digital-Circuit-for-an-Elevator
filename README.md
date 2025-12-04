@@ -83,20 +83,20 @@ Below is the breadboard implementation used for the project: <a href="https://ww
 
 ## 🔁 Working Principle
 
-### **1. Person Detection**
+>### **1. Person Detection**
 - IR sensor output transitions from **HIGH → LOW** when a person passes  
 - A pulse is fed into the **74HC93 counter**  
 - Counter increments by 1 per detection
 
-### **2. Counting Logic**
+>### **2. Counting Logic**
 - The **74HC93** outputs a 4-bit binary number  
 - This binary output is sent to the **CD4511 decoder**
 
-### **3. Displaying the Count**
+>### **3. Displaying the Count**
 - CD4511 converts BCD to 7-segment signals  
 - The 7-segment display shows numbers **0 to 9**
 
-### **4. Capacity Detection Logic**
+>### **4. Capacity Detection Logic**
 Using **AND gates (74HC08)** and **inverters (74HC04)**:
 
 - If count **< 9** →  
