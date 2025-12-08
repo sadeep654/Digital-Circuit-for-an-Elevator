@@ -144,12 +144,16 @@ See the `LICENSE` file for details.
 
 If you use or reference this work in academic or technical documents, please cite:
 ```bash
-Kasthuriarachchi, S.D. (2020) Digital Circuit for an Elevator.[Online] Available at: https://github.com/sadeep654/Digital-Circuit-for-an-Elevator (Accessed: date-you-accessed).
+Kasthuriarachchi, S.D., Perera, H.A.K.D., Jayasekera, P.Y.R., and Liyanage, R.S.H. (2020) Digital Circuit for an Elevator.[Online] Available at: https://github.com/sadeep654/Digital-Circuit-for-an-Elevator (Accessed: date-you-accessed).
 ```
 ---
 
-## 👤 Author
+## 👤 Authors
 
+>- Kasthuriarachchi, S.D.
+>- Perera, H.A.K.D.
+>- Jayasekera P.Y.R 
+>- Liyanage R.S.H.
 ```bash
 Copyright (c) 2020 Sadeep Dilshan Kasthuriarachchi
 ```
